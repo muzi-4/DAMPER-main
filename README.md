@@ -59,3 +59,7 @@ Execute the end-to-end pipeline using the following command:
   --from-step 1 \
   --end-step 13
 ```
+
+### 4) Video Demo
+
+`video_demo.mp4` provides a demonstration of DAMPER, illustrating its privacy span localization and rewriting process.
